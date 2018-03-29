@@ -1,0 +1,16 @@
+ID,tokens,filename,Gender,desc,Attribution
+0,woman,woman.jpg,F,,Free
+1,man,man.jpg,M,,Free
+2,ask,ask.png,,,
+3,bees,bees.jpg,,,
+4,drink,drink.png,,,
+5,garden,garden.jpg,,,
+6,"(man, drink, water)",mandrinkwater.jpg,M,,
+7,money,money.jpg,,,
+8,paint,paint.png,,,
+9,painting,painting.jpg,,,
+10,party,party.jpg,,,
+11,they,they.png,,,
+12,tree,tree.png,,,
+13,water,water.jpg,,,
+14,went,went.jpg,,,
